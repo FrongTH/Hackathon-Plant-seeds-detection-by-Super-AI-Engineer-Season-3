@@ -5,3 +5,6 @@
 ![Hackathon-Plant-seeds-detection-by-Super-AI-Engineer-Season-3](Plat_seed_detect_cover.png)
 <br>
 <br>
+
+My logic process<br>
+Explore data --> Roboflow tool make yolo format dataset --> Yolov8 to detect seed --> Save image detect --> Feed cropped image to eva02 (image classification model) --> Counting --> submit
